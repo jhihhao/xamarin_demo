@@ -1,0 +1,17 @@
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\Demo_1.csproj.AssemblyReference.cache
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\MenuPage.xaml.g.cs
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\Views\CountDownPage.xaml.g.cs
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\Views\InputPage.xaml.g.cs
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\Demo_1.csproj.CoreCompileInputs.cache
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\Demo_1.AssemblyInfoInputs.cache
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\Demo_1.AssemblyInfo.cs
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\Demo_1.dll
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\ref\Demo_1.dll
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\Demo_1.pdb
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\bin\Debug\netstandard2.0\Demo_1.deps.json
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\bin\Debug\netstandard2.0\Demo_1.dll
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\bin\Debug\netstandard2.0\ref\Demo_1.dll
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\bin\Debug\netstandard2.0\Demo_1.pdb
+C:\Users\01537\source\repos\Demo_1\Demo_1\Demo_1\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="Black"
+             x:Class="Demo_1.Views.CountDownPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Time: 0s" TextColor="White" x:Name="lbCountDownResult"/>
+            <Button Text="Start_Countdown" TextColor="Black" x:Name="btnStartCountdown" Clicked="BtnStartCountdown_Clicked"/>
+            <Button Text="Stop_Countdown" TextColor="Black" x:Name="btnStopCoutndown" Clicked="BtnStopCoutndown_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
